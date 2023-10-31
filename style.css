@@ -1,0 +1,42 @@
+.txt{
+    font-size: 18px;
+    font-weight: 500;
+}
+.txt2{
+    font-weight: 700;
+}
+.yellow{
+    color: yellow;
+    font-size: 14px;
+}
+.f20{
+    font-size: 17spx;
+}
+.f24{
+    font-size: 24px;
+}
+.stil{
+    max-width: 150px;
+    max-height: 200px;
+}
+.bg1{
+    background-color: rgb(162, 54, 69);
+}
+.bg2{
+    background-color: rgb(145, 47, 60);
+}
+.bg3{
+    background-color: rgb(245, 245, 245);
+}
+.bg4{
+    background-color: rgb(231, 231, 231);
+}
+.c1{
+    color: white;
+}
+.lp20{
+    padding-left: 20px;
+}
+.br{
+    border: 1px black solid;
+}
